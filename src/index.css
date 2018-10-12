@@ -9,7 +9,7 @@ body {
   color: #fff;
 }
 
-/* Container Elements */
+Container Elements
 .puzzleFeed {
   display: flex;
   flex-direction: column;
@@ -128,4 +128,4 @@ h4 {
   color: #ffffff;
   margin-bottom: 35px;
 }
-
+ 
